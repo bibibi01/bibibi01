@@ -1,6 +1,11 @@
-Skills🔧
+<h3>Skills🔧</h3>
 
 Language : Java, HTML, CSS
+
+Framework : Spring, SpringBoot, Mybatis
+
+DBMS : MySQL
+
 Tools : Git, AWS
 
 
